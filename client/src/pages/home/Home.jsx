@@ -64,7 +64,7 @@ const HomePage = () => {
         )}
         
         <div className="posts-grid">
-          {posts.map(post => (
+          {posts && posts.length > 0 && posts.map(post => (
             <PostCard key={post._id} post={post} />
           ))}
         </div>
