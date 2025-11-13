@@ -1,4 +1,3 @@
-
 # 🚀 Modern Blog Application
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://blog-app-dhanabalank.netlify.app)
