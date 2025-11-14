@@ -246,13 +246,13 @@ DELETE /api/comments/:id       # Delete comment
 <div align="center">
 
 ### 🏠 **Homepage**
-![Homepage](./home.png)
+![Homepage](https://github.com/user-attachments/assets/c9bad49e-3cd6-468b-9f2f-d8607d528f7f)
 
 ### ✍️ **Content Editor**
-![Editor](./create.png)
+![Editor](https://github.com/user-attachments/assets/ed0102cc-6d18-4bcb-a4c4-945fd1c1a7e6)
 
 ### 👤 **User Profile**
-![Profile](./profile.png)
+![Profile](https://github.com/user-attachments/assets/7cd2a1dd-320d-4cdc-b273-256e5e841a57)
 
 </div>
 
