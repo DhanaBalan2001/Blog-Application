@@ -246,10 +246,10 @@ DELETE /api/comments/:id       # Delete comment
 <div align="center">
 
 ### 🏠 **Homepage**
-![Homepage](https://github.com/user-attachments/assets/c9bad49e-3cd6-468b-9f2f-d8607d528f7f)
+![Homepage](https://github.com/user-attachments/assets/ed0102cc-6d18-4bcb-a4c4-945fd1c1a7e6)
 
 ### ✍️ **Content Editor**
-![Editor](https://github.com/user-attachments/assets/ed0102cc-6d18-4bcb-a4c4-945fd1c1a7e6)
+![Editor](https://github.com/user-attachments/assets/c9bad49e-3cd6-468b-9f2f-d8607d528f7f)
 
 ### 👤 **User Profile**
 ![Profile](https://github.com/user-attachments/assets/7cd2a1dd-320d-4cdc-b273-256e5e841a57)
@@ -260,12 +260,11 @@ DELETE /api/comments/:id       # Delete comment
 
 <div align="center">
 
-**Built with 💜 by [Dhanabalan K](https://github.com/yourusername)**
+**Built with 💜 by [Dhanabalan](https://github.com/DhanaBalan2001)**
 
 *Transforming ideas into digital experiences*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff6b6b?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
 
 </div>
