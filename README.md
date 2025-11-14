@@ -246,13 +246,13 @@ DELETE /api/comments/:id       # Delete comment
 <div align="center">
 
 ### 🏠 **Homepage**
-![Homepage](https://via.placeholder.com/800x400/4f46e5/ffffff?text=BlogSphere+Homepage)
+![Homepage](./home.png)
 
 ### ✍️ **Content Editor**
-![Editor](https://via.placeholder.com/800x400/06b6d4/ffffff?text=Rich+Text+Editor)
+![Editor](./create.png)
 
 ### 👤 **User Profile**
-![Profile](https://via.placeholder.com/800x400/10b981/ffffff?text=User+Profile)
+![Profile](./profile.png)
 
 </div>
 
